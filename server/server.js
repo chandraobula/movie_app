@@ -50,7 +50,7 @@ app.get('/movie', (req, res) => {
 //admin login
 app.post('/login', (req, res) => {
     const username = req.body.email;
-    const password = req.body.password;
+    const password  = req.body.password;
     db.execute(
         "SELECT * FROM admin WHERE email = ? AND password = ?",
         [username, password],
