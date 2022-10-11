@@ -79,7 +79,7 @@ function Header() {
 							<img src={logo} alt="" class="logo" />
 							<div class="logo-copy">
 								<h1 class="site-title">Review-My-Show.com</h1 >
-								<small class="site-description">Find the accurate review</small>
+								<small class="site-description">Give your valuable Review</small>
 							</div>
 						</a>
 						<div class="main-navigation">
