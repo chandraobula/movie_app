@@ -1,6 +1,32 @@
 {
   "dependencies": {
+    "axios": "^1.1.2",
     "body-parser": "^1.20.1",
-    "express": "^4.18.1"
-  }
+    "bootstrap": "^5.2.2",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "nodemon": "^2.0.20",
+    "react-bootstrap": "^2.5.0",
+    "react-fontawesome": "^1.7.1",
+    "react-router-dom": "^6.4.2"
+  },
+  "name": "movie-rating-web",
+  "description": "A React WebPagge to Rate and Review Movies\r # Server \r  1)npm init\r  2)npm install express --save\r  3)npm install nodemon\r  4)npm install cors axios\r  5)npm install --save express-session body-parser cookie-parser",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chandraobula/movie_app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chandraobula/movie_app/issues"
+  },
+  "homepage": "https://github.com/chandraobula/movie_app#readme"
 }
