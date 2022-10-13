@@ -15,12 +15,12 @@
     "Web",
     "App"
   ],
-  "author": "Abhishek",
+  "author": "chandra",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Abhishek-BG/Movie-Rating-Web/issues"
+    "url": "https://github.com/chandraobula/movie_app"
   },
-  "homepage": "https://github.com/Abhishek-BG/Movie-Rating-Web#readme",
+  "homepage": "https://github.com/chandraobula/movie_app#readme",
   "dependencies": {
     "-": "^0.0.1",
     "axios": "^0.27.2",
